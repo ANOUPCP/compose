@@ -1,4 +1,4 @@
-# Table of Contents
+pi-node initialize --pi-folder "$HOME/pi-node" --docker-volumes "./docker_volumes/mainnet" --node-private-key "<seed>" --postgres-password "<password>" --start-node# Table of Contents
 - [Docker Compose](#docker-compose)
 - [Where to get Docker Compose](#where-to-get-docker-compose)
     + [Windows and macOS](#windows-and-macos)
